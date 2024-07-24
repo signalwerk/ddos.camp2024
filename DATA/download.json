@@ -1,0 +1,1011 @@
+{
+  "https://ddos.odenwilusenz.ch/": {
+    "url": "https://ddos.odenwilusenz.ch/",
+    "status": null,
+    "mimeType": null,
+    "path": null,
+    "error": null,
+    "original": {
+      "url": "https://ddos.odenwilusenz.ch/",
+      "normalized": "https://ddos.odenwilusenz.ch/"
+    },
+    "redirect": {
+      "url": "https://ddos.odenwilusenz.ch/Hauptseite",
+      "normalized": "https://ddos.odenwilusenz.ch/Hauptseite"
+    }
+  },
+  "https://ddos.odenwilusenz.ch/Hauptseite": {
+    "url": "https://ddos.odenwilusenz.ch/Hauptseite",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Hauptseite.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Teilnehmende": {
+    "url": "https://ddos.odenwilusenz.ch/Teilnehmende",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Teilnehmende.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Fahrplan": {
+    "url": "https://ddos.odenwilusenz.ch/Fahrplan",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Fahrplan.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Gel%C3%A4nde": {
+    "url": "https://ddos.odenwilusenz.ch/Gel%C3%A4nde",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Gelände.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Badge": {
+    "url": "https://ddos.odenwilusenz.ch/Badge",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Badge.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Ddos_nacht.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/DDOS:Datenschutz": {
+    "url": "https://ddos.odenwilusenz.ch/DDOS:Datenschutz",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://ddos.odenwilusenz.ch/DDOS:%C3%9Cber_DDOS": {
+    "url": "https://ddos.odenwilusenz.ch/DDOS:%C3%9Cber_DDOS",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://ddos.odenwilusenz.ch/DDOS:Impressum": {
+    "url": "https://ddos.odenwilusenz.ch/DDOS:Impressum",
+    "status": "error",
+    "mimeType": null,
+    "path": null,
+    "error": "Request failed with status code 404"
+  },
+  "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_88x31.png": {
+    "url": "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_88x31.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_88x31.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/900px-Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/900px-Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/900px-Ddos_nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/600px-Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/600px-Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/600px-Ddos_nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_176x62.png": {
+    "url": "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_176x62.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_176x62.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_132x47.png": {
+    "url": "https://ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_132x47.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/assets/poweredby_mediawiki_132x47.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=skins.vector.styles.legacy&only=styles&skin=vector": {
+    "url": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=skins.vector.styles.legacy&only=styles&skin=vector",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/load.php?lang=de&modules=skins.vector.styles.legacy&only=styles&skin=vector.css",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=startup&only=scripts&raw=1&skin=vector": {
+    "url": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=startup&only=scripts&raw=1&skin=vector",
+    "status": 200,
+    "mimeType": "text/javascript",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/load.php?lang=de&modules=startup&only=scripts&raw=1&skin=vector.js",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/favicon.ico": {
+    "url": "https://ddos.odenwilusenz.ch/favicon.ico",
+    "status": 200,
+    "mimeType": "image/x-icon",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/favicon.ico",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=site.styles&only=styles&skin=vector": {
+    "url": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=site.styles&only=styles&skin=vector",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/load.php?lang=de&modules=site.styles&only=styles&skin=vector.css",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Benutzer:Signalwerk": {
+    "url": "https://ddos.odenwilusenz.ch/Benutzer:Signalwerk",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Benutzer:Signalwerk.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Benutzer:Maru": {
+    "url": "https://ddos.odenwilusenz.ch/Benutzer:Maru",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Benutzer:Maru.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Benutzer:Hieronymus": {
+    "url": "https://ddos.odenwilusenz.ch/Benutzer:Hieronymus",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Benutzer:Hieronymus.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Schweiss%C3%BCbung": {
+    "url": "https://ddos.odenwilusenz.ch/Schweiss%C3%BCbung",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Schweissübung.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Karte.png",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Karte.png.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_hackerspace.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_wiese2022.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_baumhaus.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_baumhaus.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_Bar.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_Paletten.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/600px-Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/600px-Karte.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/600px-Karte.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/600px-Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/600px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/600px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_Baumhaus_Nacht.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/600px-Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/600px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/600px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/600px-Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/600px-Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/600px-Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/600px-Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/600px-Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/600px-Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/600px-Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/600px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/600px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/600px-Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/600px-Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/600px-Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "text/html",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/Datei:Odenwilusenz_gelaende_Wohnwagen.jpg.html",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/600px-Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/600px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/600px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/900px-Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/900px-Karte.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/900px-Karte.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/600px-Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/600px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/600px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/900px-Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/900px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/900px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/900px-Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/900px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/900px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1200px-Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1200px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1200px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/900px-Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/900px-Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/900px-Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/900px-Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/900px-Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/900px-Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/900px-Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/900px-Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/900px-Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/900px-Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/900px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/900px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/f/fe/Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/f/fe/Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/f/fe/Ddos_nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/900px-Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/900px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/900px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/900px-Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/900px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/900px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg?20230314182929": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg?20230314182929",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/800px-Ddos_nacht.jpg?20230314182929=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg?20230314182929": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg?20230314182929",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1200px-Ddos_nacht.jpg?20230314182929=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=mediawiki.page.gallery.styles%7Cskins.vector.styles.legacy&only=styles&skin=vector": {
+    "url": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=mediawiki.page.gallery.styles%7Cskins.vector.styles.legacy&only=styles&skin=vector",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/load.php?lang=de&modules=mediawiki.page.gallery.styles|skins.vector.styles.legacy&only=styles&skin=vector.css",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/120px-Ddos_nacht.jpg?20230314182929": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/120px-Ddos_nacht.jpg?20230314182929",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/120px-Ddos_nacht.jpg?20230314182929=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/link-external-small-ltr-progressive.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/search.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/search.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/search.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/bullet-icon.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/bullet-icon.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/bullet-icon.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=filepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cskins.vector.styles.legacy&only=styles&skin=vector": {
+    "url": "https://ddos.odenwilusenz.ch/load.php?lang=de&modules=filepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cskins.vector.styles.legacy&only=styles&skin=vector",
+    "status": 200,
+    "mimeType": "text/css",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/load.php?lang=de&modules=filepage|mediawiki.action.view.filepage|mediawiki.interface.helpers.styles|skins.vector.styles.legacy&only=styles&skin=vector.css",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1600px-Ddos_nacht.jpg?20230314182929": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1600px-Ddos_nacht.jpg?20230314182929",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/f/fe/Ddos_nacht.jpg/1600px-Ddos_nacht.jpg?20230314182929=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/arrow-down.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/arrow-down.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/arrow-down.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon-hl.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon-hl.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-temp-icon-hl.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon-hl.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon-hl.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/watch-icon-hl.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/skins.vector.styles.legacy/images/user-avatar.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/skins.vector.styles.legacy/images/user-avatar.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/skins.vector.styles.legacy/images/user-avatar.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg": {
+    "url": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon-hl.svg": {
+    "url": "https://ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon-hl.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/skins/Vector/resources/common/images/unwatch-icon-hl.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/ddos-odenwilusenz-logo-2024-wiki-quadrat.png": {
+    "url": "https://ddos.odenwilusenz.ch/ddos-odenwilusenz-logo-2024-wiki-quadrat.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/ddos-odenwilusenz-logo-2024-wiki-quadrat.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg": {
+    "url": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/src/mediawiki.skinning/images/magnify-clip-rtl.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png?20230305211330": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png?20230305211330",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png?20230305211330=.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/800px-Karte.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/120px-Karte.png?20230305211330": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/120px-Karte.png?20230305211330",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/120px-Karte.png?20230305211330=.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png?20230305211330": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png?20230305211330",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/ba/Karte.png/1200px-Karte.png?20230305211330=.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/120px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/120px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/120px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/1200px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_hackerspace.jpg/800px-Odenwilusenz_gelaende_hackerspace.jpg?20230305212341=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg?20230305212341": {
+    "url": "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg?20230305212341",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_hackerspace.jpg?20230305212341=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/b/ba/Karte.png": {
+    "url": "https://ddos.odenwilusenz.ch/images/b/ba/Karte.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/b/ba/Karte.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/b/ba/Karte.png?20230305211330": {
+    "url": "https://ddos.odenwilusenz.ch/images/b/ba/Karte.png?20230305211330",
+    "status": 200,
+    "mimeType": "image/png",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/b/ba/Karte.png?20230305211330=.png",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/2560px-Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/2560px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/2560px-Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1200px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/120px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/120px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/120px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/800px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/120px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/120px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/120px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1199px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1199px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/1199px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg?20230305221842": {
+    "url": "https://ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg?20230305221842",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/3/35/Odenwilusenz_gelaende_baumhaus.jpg?20230305221842=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/35/Odenwilusenz_gelaende_baumhaus.jpg/799px-Odenwilusenz_gelaende_baumhaus.jpg?20230305221842=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_wiese2022.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_wiese2022.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/b/b4/Odenwilusenz_gelaende_wiese2022.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1600px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1600px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/b/b4/Odenwilusenz_gelaende_wiese2022.jpg/1600px-Odenwilusenz_gelaende_wiese2022.jpg?20230305214915=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/6/6e/Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/6/6e/Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/6/6e/Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/120px-Odenwilusenz_baumhaus.jpg?20230305212422": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/120px-Odenwilusenz_baumhaus.jpg?20230305212422",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/120px-Odenwilusenz_baumhaus.jpg?20230305212422=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg?20230305212422": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg?20230305212422",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/800px-Odenwilusenz_baumhaus.jpg?20230305212422=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/2560px-Odenwilusenz_baumhaus.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/2560px-Odenwilusenz_baumhaus.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/2560px-Odenwilusenz_baumhaus.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg?20230305212422": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg?20230305212422",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1200px-Odenwilusenz_baumhaus.jpg?20230305212422=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/2560px-Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/2560px-Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/2560px-Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/120px-Odenwilusenz_Bar.jpg?20230305222052": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/120px-Odenwilusenz_Bar.jpg?20230305222052",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/120px-Odenwilusenz_Bar.jpg?20230305222052=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg?20230305222052": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg?20230305222052",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1200px-Odenwilusenz_Bar.jpg?20230305222052=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1600px-Odenwilusenz_Bar.jpg?20230305222052": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1600px-Odenwilusenz_Bar.jpg?20230305222052",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/1600px-Odenwilusenz_Bar.jpg?20230305222052=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1600px-Odenwilusenz_baumhaus.jpg?20230305212422": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1600px-Odenwilusenz_baumhaus.jpg?20230305212422",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/6/6e/Odenwilusenz_baumhaus.jpg/1600px-Odenwilusenz_baumhaus.jpg?20230305212422=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg?20230305222052": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg?20230305222052",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/d/da/Odenwilusenz_Bar.jpg/800px-Odenwilusenz_Bar.jpg?20230305222052=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/0/0d/Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/0/0d/Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/0/0d/Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/d/da/Odenwilusenz_Bar.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/d/da/Odenwilusenz_Bar.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/d/da/Odenwilusenz_Bar.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/2560px-Odenwilusenz_Paletten.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/2560px-Odenwilusenz_Paletten.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/2560px-Odenwilusenz_Paletten.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg?20230305222248": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg?20230305222248",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1200px-Odenwilusenz_Paletten.jpg?20230305222248=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1600px-Odenwilusenz_Paletten.jpg?20230305222248": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1600px-Odenwilusenz_Paletten.jpg?20230305222248",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/1600px-Odenwilusenz_Paletten.jpg?20230305222248=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/120px-Odenwilusenz_Paletten.jpg?20230305222248": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/120px-Odenwilusenz_Paletten.jpg?20230305222248",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/120px-Odenwilusenz_Paletten.jpg?20230305222248=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg?20230305222248": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg?20230305222248",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/0/0d/Odenwilusenz_Paletten.jpg/800px-Odenwilusenz_Paletten.jpg?20230305222248=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/2560px-Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/2560px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/2560px-Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/800px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1200px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1600px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1600px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/1600px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/120px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/120px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/3/3f/Odenwilusenz_Baumhaus_Nacht.jpg/120px-Odenwilusenz_Baumhaus_Nacht.jpg?20230305222325=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/800px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/120px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/120px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/120px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1200px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406=.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/2560px-Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/2560px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/2560px-Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg": {
+    "url": "https://ddos.odenwilusenz.ch/images/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/resources/src/mediawiki.action/images/checker.svg": {
+    "url": "https://ddos.odenwilusenz.ch/resources/src/mediawiki.action/images/checker.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/resources/src/mediawiki.action/images/checker.svg",
+    "error": null
+  },
+  "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1600px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406": {
+    "url": "https://ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1600px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "path": "/Users/DATA/CODE/ddos.camp2024/DATA/html/ddos.odenwilusenz.ch/images/thumb/1/14/Odenwilusenz_gelaende_Wohnwagen.jpg/1600px-Odenwilusenz_gelaende_Wohnwagen.jpg?20230305222406=.jpg",
+    "error": null
+  }
+}
