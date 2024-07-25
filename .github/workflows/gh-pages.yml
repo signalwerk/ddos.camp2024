@@ -1,0 +1,55 @@
+name: GitHub Pages
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[CI SKIP]')"
+    # permissions:
+    #   contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - name: Check date and deactivate cron if necessary
+        run: |
+          DEACTIVATION_DATE="2024-07-26"
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+
+          echo "Deactivation Date: $DEACTIVATION_DATE"
+          echo "Current Date: $CURRENT_DATE"
+
+          if [[ "$CURRENT_DATE" > "$DEACTIVATION_DATE" ]]; then
+            echo "This workflow is deactivated as of $DEACTIVATION_DATE."
+            gh api -X PUT /repos/${{ github.repository }}/actions/workflows/disable-cron.yml/disable -H "Authorization: token ${{ secrets.GH_TOKEN }}"
+            exit 0
+          fi
+
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
+
+      - name: ⚡ use node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+
+      - name: ⚙️ npm setup
+        run: npm ci
+
+      - name: ⬇️ download
+        run: |
+          bash run.sh
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: Update download [CI SKIP]
+          committer_name: GitHub Actions
+          committer_email: action@github.com
