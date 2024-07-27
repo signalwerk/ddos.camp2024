@@ -74,10 +74,11 @@ async function runQueue() {
         // "wgBackendResponseTime":103
 
         let newContent = fs.readFileSync(path, "utf8");
-        const matchString = /"(wgRequestId|cputime|walltime|timestamp)":"[^"]*"/g;
+        const matchString =
+          /"(wgRequestId|cputime|walltime|timestamp)":"[^"]*"/g;
         newContent = newContent.replace(matchString, `"$1":""`);
 
-        const matchArray = /"(timingprofile)":\[[^\]]*\]/mg;
+        const matchArray = /"(timingprofile)":\[[^\]]*\]/gm;
         newContent = newContent.replace(matchArray, `"$1":[]`);
 
         const matchNumber = /"(wgBackendResponseTime)":[0-9]+/g;
@@ -108,6 +109,8 @@ async function runQueue() {
       }) => {
         const content = fs.readFileSync(downloadedFile.path, "utf8");
         const $ = cheerio.load(content);
+
+        $(".wiki-no-archive").remove(); // hand-curated elements to remove
 
         $("#footer-icons").remove(); // remove footer mediawiki icon
         $("#footer-places").remove(); // remove «Datenschutz | Über DDOS | Haftungsausschluss»
