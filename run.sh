@@ -35,4 +35,7 @@ find "$soure" -type f -name "*.orig" -exec sh -c '
 ' "$destination" {} \;
 # -----------------------------------------
 
+rm -rf ./DATA/dl.log
+rm -rf ./DATA/download.json
+
 cp docs/Hauptseite.html docs/index.html
