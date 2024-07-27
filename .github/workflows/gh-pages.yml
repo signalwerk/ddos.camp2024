@@ -19,7 +19,7 @@ jobs:
     steps:
       - name: Check date and deactivate cron if necessary
         run: |
-          DEACTIVATION_DATE="2024-07-26"
+          DEACTIVATION_DATE="2024-07-28"
           CURRENT_DATE=$(date +'%Y-%m-%d')
 
           echo "Deactivation Date: $DEACTIVATION_DATE"

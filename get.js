@@ -74,8 +74,11 @@ async function runQueue() {
         // "wgBackendResponseTime":103
 
         let newContent = fs.readFileSync(path, "utf8");
-        const match = /"(wgRequestId|cputime|walltime|timestamp)":"[^"]*"/g;
-        newContent = newContent.replace(match, `"$1":""`);
+        const matchString = /"(wgRequestId|cputime|walltime|timestamp)":"[^"]*"/g;
+        newContent = newContent.replace(matchString, `"$1":""`);
+
+        const matchArray = /"(timingprofile)":\[[^\]]*\]/mg;
+        newContent = newContent.replace(matchArray, `"$1":[]`);
 
         const matchNumber = /"(wgBackendResponseTime)":[0-9]+/g;
         newContent = newContent.replace(matchNumber, `"$1":0`);
