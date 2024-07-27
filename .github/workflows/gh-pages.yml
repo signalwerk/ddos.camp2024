@@ -27,14 +27,16 @@ jobs:
 
           if [[ "$CURRENT_DATE" > "$DEACTIVATION_DATE" ]]; then
             echo "This workflow is deactivated as of $DEACTIVATION_DATE."
-            gh api -X PUT /repos/${{ github.repository }}/actions/workflows/disable-cron.yml/disable -H "Authorization: token ${{ secrets.GH_TOKEN }}"
+            gh api -X PUT /repos/${{ github.repository }}/actions/workflows/gh-pages.yml/disable -H "Authorization: token ${{ github.token }}"
             exit 0
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}
 
       - name: 🚚 Get latest code
         uses: actions/checkout@v4
         with:
-          submodules: 'recursive'
+          submodules: "recursive"
 
       - name: ⚡ use node
         uses: actions/setup-node@v4
