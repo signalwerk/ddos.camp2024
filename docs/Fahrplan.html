@@ -32,8 +32,8 @@
         wgNamespaceNumber: 0,
         wgPageName: "Fahrplan",
         wgTitle: "Fahrplan",
-        wgCurRevisionId: 265,
-        wgRevisionId: 265,
+        wgCurRevisionId: 271,
+        wgRevisionId: 271,
         wgArticleId: 49,
         wgIsArticle: true,
         wgIsRedirect: false,
@@ -61,6 +61,7 @@
       RLPAGEMODULES = [
         "site",
         "mediawiki.page.ready",
+        "mediawiki.toc",
         "skins.vector.legacy.js",
       ];
     </script>
@@ -124,6 +125,52 @@
           dir="ltr"
         >
           <div class="mw-parser-output">
+            <div
+              id="toc"
+              class="toc"
+              role="navigation"
+              aria-labelledby="mw-toc-heading"
+            >
+              <input
+                type="checkbox"
+                role="button"
+                id="toctogglecheckbox"
+                class="toctogglecheckbox"
+                style="display: none"
+              />
+              <div class="toctitle" lang="de" dir="ltr">
+                <h2 id="mw-toc-heading">Inhaltsverzeichnis</h2>
+                <span class="toctogglespan"
+                  ><label class="toctogglelabel" for="toctogglecheckbox"></label
+                ></span>
+              </div>
+              <ul>
+                <li class="toclevel-1 tocsection-1">
+                  <a href="Fahrplan.html#Freitag_·_30._August_2024"
+                    ><span class="tocnumber">1</span>
+                    <span class="toctext">Freitag · 30. August 2024</span></a
+                  >
+                </li>
+                <li class="toclevel-1 tocsection-2">
+                  <a href="Fahrplan.html#Samstag_·_31._August_2024"
+                    ><span class="tocnumber">2</span>
+                    <span class="toctext">Samstag · 31. August 2024</span></a
+                  >
+                </li>
+                <li class="toclevel-1 tocsection-3">
+                  <a href="Fahrplan.html#Sonntag_·_1._September_2024"
+                    ><span class="tocnumber">3</span>
+                    <span class="toctext">Sonntag · 1. September 2024</span></a
+                  >
+                </li>
+                <li class="toclevel-1 tocsection-4">
+                  <a href="Fahrplan.html#Immer"
+                    ><span class="tocnumber">4</span>
+                    <span class="toctext">Immer</span></a
+                  >
+                </li>
+              </ul>
+            </div>
             <h2>
               <span id="Freitag_.C2.B7_30._August_2024"></span
               ><span class="mw-headline" id="Freitag_·_30._August_2024"
@@ -147,6 +194,10 @@
               </li>
               <li>Mittag - CCC-CH-Gettogether</li>
               <li>Abend - Musik mit live-Visuals vor dem blauen Wohnwagen</li>
+              <li>
+                hh:mm - Stereophotographie früher und heute (nuess0r, ca. 30
+                min)
+              </li>
             </ul>
             <h2>
               <span id="Sonntag_.C2.B7_1._September_2024"></span
@@ -154,6 +205,13 @@
                 >Sonntag · 1. September 2024</span
               >
             </h2>
+            <h2><span class="mw-headline" id="Immer">Immer</span></h2>
+            <ul>
+              <li>
+                IBM Model M Tastatur umbauen → nuess0r hat Bausätze dabei,
+                Tastaturen müsst ihr selber mitnehmen
+              </li>
+            </ul>
           </div>
         </div>
         <div
@@ -208,7 +266,7 @@
     <footer id="footer" class="mw-footer" role="contentinfo">
       <ul id="footer-info">
         <li id="footer-info-lastmod">
-          Diese Seite wurde zuletzt am 27. Juli 2024 um 22:58 Uhr bearbeitet.
+          Diese Seite wurde zuletzt am 7. August 2024 um 23:06 Uhr bearbeitet.
         </li>
       </ul>
     </footer>
@@ -219,7 +277,7 @@
             limitreport: {
               cputime: "",
               walltime: "",
-              ppvisitednodes: { value: 10, limit: 1000000 },
+              ppvisitednodes: { value: 13, limit: 1000000 },
               postexpandincludesize: { value: 0, limit: 2097152 },
               templateargumentsize: { value: 0, limit: 2097152 },
               expansiondepth: { value: 2, limit: 100 },
